@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25912bab-e2d8-43f9-a61f-103c14cc69ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlkuYESoyqr50MndMuTDd9JLYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="AccountClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccountClass" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Time2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnhancingTime2.Time2Test" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.AccountClass" />
+        <item itemvalue="Application.Time2Test" />
+        <item itemvalue="Application.RectangleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25912bab-e2d8-43f9-a61f-103c14cc69ba" name="Default Changelist" comment="" />
+      <created>1575938792012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575938792012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="271" width="424" height="230" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576017879294">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state x="471" y="271" width="424" height="230" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.21.1366.747@0.21.1366.747" timestamp="1576017879294" />
+    <state x="281" y="21" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576015265843">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state x="281" y="21" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.21.1366.747@0.21.1366.747" timestamp="1576015265843" />
+    <state x="421" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576017293321">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state x="421" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.21.1366.747@0.21.1366.747" timestamp="1576017293321" />
+    <state width="1324" height="24" key="GridCell.Tab.0.bottom" timestamp="1576019756170">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state width="1324" height="24" key="GridCell.Tab.0.bottom/0.21.1366.747@0.21.1366.747" timestamp="1576019756170" />
+    <state width="1324" height="24" key="GridCell.Tab.0.center" timestamp="1576019756169">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state width="1324" height="24" key="GridCell.Tab.0.center/0.21.1366.747@0.21.1366.747" timestamp="1576019756169" />
+    <state width="1324" height="24" key="GridCell.Tab.0.left" timestamp="1576019756168">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state width="1324" height="24" key="GridCell.Tab.0.left/0.21.1366.747@0.21.1366.747" timestamp="1576019756168" />
+    <state width="1324" height="24" key="GridCell.Tab.0.right" timestamp="1576019756170">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state width="1324" height="24" key="GridCell.Tab.0.right/0.21.1366.747@0.21.1366.747" timestamp="1576019756170" />
+    <state x="371" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1576105524111">
+      <screen x="0" y="21" width="1366" height="747" />
+    </state>
+    <state x="371" y="209" key="com.intellij.ide.util.TipDialog/0.21.1366.747@0.21.1366.747" timestamp="1576105524111" />
+  </component>
+</project>
